@@ -1,12 +1,28 @@
-# React + Vite
+# 🛍️ Cyberpunk Fake E-Commerce Product Listing App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, cyberpunk style responsive e-commerce front-end built with **React**, showcasing product listings using **FakeStoreAPI**. This project was designed to demonstrate skills in API integration, React components, styling, and page structure for a real-world e-commerce layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Demo
 
-## Expanding the ESLint configuration
+Live site: [View App Here](https://shogo177.github.io/fake-ecommerce-app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- ✅ Fetches product data from a public REST API (FakeStoreAPI)
+- ✅ Displays products with images, prices, and titles
+- ✅ Clean, responsive layout built with CSS
+- ✅ Simple navigation and design
+- ✅ Fully deployed using GitHub Pages
+
+---
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [FakeStoreAPI](https://fakestoreapi.com/)
+- HTML5 & CSS3
